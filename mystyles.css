@@ -3,11 +3,37 @@ body {
     font-size: 20px;
     line-height: 28px;
 
+}
 
-    .hed {
-        font-family: 'Merriweather', serif;
-    }
+div {
+    /* my styles */
+}
 
-    .bold {
-        font-weight: bold;
-    }
+.article-hed {
+    max-width: 500px;
+    margin: auto;
+    border-left-width:
+}
+
+.hed {
+    font-size: 36px;
+    /*font-weight: 400;*/
+    color: orange;
+}
+
+.dek {
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #333;
+}
+
+
+
+
+
+
+.bold {
+    font-weight: bold;
+}

@@ -2,10 +2,13 @@ body {
     font-family: "PT Serif";
     font-size: 18px;
     line-height: 26px;
+    color: "grey";
+
 }
-div { 
-   /* my styles */
-    }
+
+div {
+    /* my styles */
+}
 
 .article-hed {
     max-width: 720px;
