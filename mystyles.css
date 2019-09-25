@@ -1,7 +1,13 @@
+body {
+    font-family: "American Typewriter";
+    font-size: 20px;
+    line-height: 28px;
 
 
+    .hed {
+        font-family: 'Merriweather', serif;
+    }
 
-.hed {
-	font-family: 'Merriweather', serif
-	;
-}
+    .bold {
+        font-weight: bold;
+    }
