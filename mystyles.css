@@ -1,5 +1,5 @@
 body {
-    font-family: "American Typewriter";
+    font-family: "Merriweather";
     font-size: 20px;
     line-height: 28px;
 
@@ -16,9 +16,19 @@ div {
 }
 
 .hed {
-    font-size: 36px;
-    /*font-weight: 400;*/
-    color: orange;
+    text-align: center;
+}
+
+.byline {
+    font-size: 18px;
+
+}
+
+h1 {
+    line-height: 60px;
+    font-size: 50px;
+    font-weight: bold;
+
 }
 
 .dek {
@@ -29,6 +39,28 @@ div {
     color: #333;
 }
 
+.article-photo {
+    max-width: 800px;
+    margin: auto;
+}
+
+.photo {
+    width: 100%;
+}
+
+.photo-caption {
+    font-family: "Lato";
+    font-size: 14px;
+
+}
+
+.article-copy {
+    text-align: left;
+    padding-right: 25%;
+    padding-left: 25%;
+
+
+}
 
 
 
